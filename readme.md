@@ -26,15 +26,15 @@ As contas devem possuir um saldo onde poderão realizar movimentações de pagam
 
 ### Requisitos Técnicos:
 
--   Java 11 (Ou Superior).
+-   Java 17 (Ou Superior).
 -   Spring Boot.
 -   Spring Data JPA.
 -   Banco de Dados da sua escolha (H2 é uma ótima escolha para esse cenário 😄).
 
 ### O que será um Diferencial:
 
--   Apache Camel.
 -   Testes unitários.
+-   Boas práticas de resiliência.
 -   Design Patterns.
 -   Documentação.
 -   Exemplo de seus payloads.
