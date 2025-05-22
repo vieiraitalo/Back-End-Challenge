@@ -19,7 +19,7 @@ As contas devem possuir um saldo onde poderão realizar movimentações de pagam
 
 -   O pagamento é uma operação transacional que pode ser anulada ou revertida, nesse cenário o dinheiro deverá voltar para as contas.
 
--   Após efetuar o pagamento, ambos os clientes devem receber uma notificação, **o serviço é externo e considere que esse pode falhar ou estar indisponível**. Use esse endpoint para o envio (https://run.mocky.io/v3/e542e773-c6a7-465f-a8e6-3a8377fe8260).
+-   Após efetuar o pagamento, ambos os clientes devem receber uma notificação, **o serviço é externo e considere que esse pode falhar ou estar indisponível**. Use esse endpoint para o envio (https://run.mocky.io/v3/e4520707-3550-4022-9d34-88c3b38e0b28).
 
 -   Construa uma aplicação RESTFul.
 
